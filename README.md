@@ -30,7 +30,7 @@ To run this project locally:
 
 cd analog-clock-dark-mode
 ```
-3. Open the index.html file in your web browser.
+3. Open the `index.html` file in your web browser.
 
 ## Usage
 1.Click the "Dark Mode" button to toggle between light and dark themes.
@@ -40,4 +40,4 @@ cd analog-clock-dark-mode
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and improvements.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
