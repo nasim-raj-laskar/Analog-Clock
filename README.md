@@ -39,5 +39,5 @@ cd analog-clock-dark-mode
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and improvements.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
